@@ -1,0 +1,46 @@
+
+.filtro-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  justify-content: center;
+}
+
+.filtro-row .form-label {
+  margin-bottom: 0;
+  white-space: nowrap;
+  font-weight: 500;
+  color: #388e3c;
+}
+
+.select-personalizado {
+  border-radius: 6px;
+  border: 1.5px solid #c5e1a5;
+  padding: 6px 12px;
+  background: #f9fbe7;
+  color: #388e3c;
+  font-weight: 500;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.select-personalizado:focus {
+  border-color: #388e3c;
+}
+
+.buscador {
+  border-radius: 6px;
+  border: 1.5px solid #c5e1a5;
+  padding: 6px 12px;
+  background: #f9fbe7;
+  color: #388e3c;
+  font-weight: 500;
+  outline: none;
+  transition: border-color 0.2s;
+  max-width: 250px;
+}
+
+.buscador:focus {
+  border-color: #388e3c;
+}
