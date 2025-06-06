@@ -1,5 +1,7 @@
 # Carrito de Compras - Proyecto Final
 
+[🔗 Ver la aplicación en línea](https://mitienditaapp.netlify.app/)
+
 Este es un **proyecto de carrito de compras** desarrollado como trabajo final para la asignatura **Programación y Servicios Web** (nivel Técnico) en **CIAF**.
 
 ## Descripción
